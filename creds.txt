@@ -1,0 +1,11 @@
+DB
+	superuser 
+		suser
+		djbkin752
+		
+
+
+
+
+db user
+	TestUser	kinkin777
