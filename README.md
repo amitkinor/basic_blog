@@ -1,2 +1,2 @@
-# blog_demo 
-written in python with django MVC
+# blog_demo - Python with Django MVC
+
